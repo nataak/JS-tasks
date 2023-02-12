@@ -1,17 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
-
-:root {
-  --line-border-fill: #3498db;
-  --line-border-empty: #e0e0e0;
-}
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
 
 * {
   box-sizing: border-box;
 }
 
 body {
-  background-color: #f6f7fb;
-  font-family: 'Muli', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -20,6 +14,18 @@ body {
   margin: 0;
 }
 
-.container {
-  text-align: center;
+.bg {
+  background: url('spring.jpg') no-repeat center/cover;
+  position: absolute;
+  top: -30;
+  left: -30;
+  width: calc(100vw + 60px);
+  height: calc(100vh + 60px);
+  z-index: -1;
+  filter: blur(0px);
+}
+
+.loadig-text {
+  font-size: 50px;
+  color: #fff;
 }
