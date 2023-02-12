@@ -1,4 +1,6 @@
 # JS-tasks
-01 - Expanding Cards -https://nataak.github.io/JS-tasks/Expeding_Cards
+01 - Expanding Cards -https://nataak.github.io/JS-tasks/01Expeding_Cards
 
-02 -Progress Steps -https://nataak.github.io/JS-tasks/Progress_Steps
+02 - Progress Steps -https://nataak.github.io/JS-tasks/02Progress_Steps
+
+03 - Hidde Search -https://nataak.github.io/JS-tasks/03Hidden_Search_Widget
